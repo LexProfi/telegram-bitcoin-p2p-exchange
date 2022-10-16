@@ -13,7 +13,6 @@ The service does not use external resources to control balances, create and conf
 The BitcoinD client can be installed on the same machine as the service, or on a remote machine.
 
 View an example of the service:
-- http://t.me/onion_market_bot
 - http://t.me/BTC_source_bot
 
 To purchase the service, please contact https://t.me/LexProfi
